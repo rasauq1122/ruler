@@ -5,7 +5,7 @@
 /*.sh
 /nightly
 /*.terms
-/*.rules
+# /*.rules
 
 # Scripts
 scripts/ablation/output/*
